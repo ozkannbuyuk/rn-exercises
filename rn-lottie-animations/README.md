@@ -1,5 +1,5 @@
 <h1 align="center">
-   React Native - Lottie - Animations
+   React Native - Lottie Animations
 </h1>
 
 <p align="center">
